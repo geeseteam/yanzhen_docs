@@ -18,9 +18,9 @@ description: 雁阵是一款通用的项目管理工具，主要解决：项目�
 
 店主(Alice)创建一个新项目
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption><p>新建项目菜单</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption><p>新建项目窗口</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ### 二. 制定项目计划
 
@@ -28,7 +28,7 @@ description: 雁阵是一款通用的项目管理工具，主要解决：项目�
 
 在使用甘特图之前，先了解一下各种图例：
 
-<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption><p>图例说明</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. 创建任务列表
 
@@ -42,21 +42,21 @@ WBS（Work Breakdown Structure），即工作分解结构，是将项目分解�
 
 项目创建成功后进入甘特图页面，在该页面逐个创建任务
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption><p>创建任务</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 在任务行上<mark style="background-color:yellow;">**点击右键**</mark>或者<mark style="background-color:yellow;">**菜单按钮**</mark>呼出任务菜单
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption><p>任务操作菜单</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 任务分配
 
 将任务分配给相关的负责人（唯一的）
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>设置负责人</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 如果项目需要多人协作执行，则可添加协作者（可多个）。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>设置参与者</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 任务排期
 
@@ -84,7 +84,7 @@ WBS（Work Breakdown Structure），即工作分解结构，是将项目分解�
 
 最终完整的咖啡店开业项目计划是这样的：
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption><p>咖啡店开业项目计划</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ### 三. 项目评审
 

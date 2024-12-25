@@ -4,19 +4,19 @@ description: 项目基线是在项目进行中的某个时间点对所有任务�
 
 # 📷 项目基线
 
-## 创建基线
+创建基线
 
 例如：在项目计划制定完成后设置基线
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>新建基线</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 打开基线
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>选择并打开基线</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 任务排期变更后与基线对比效果：
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>基线对比</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

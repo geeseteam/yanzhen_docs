@@ -8,7 +8,7 @@ description: 雁阵的功能介绍与优点
 
 雁阵是以**甘特图**为核心的可视化项目管理工具，通过雁阵进行完整的项目生命周期管理。
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="项目管理最佳实践流程" class="gitbook-drawing">
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 {% hint style="info" %}
 **什么甘特图？**
@@ -16,7 +16,7 @@ description: 雁阵的功能介绍与优点
 甘特图是是由[亨利·甘特](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E7%94%98%E7%89%B9)（Henry Laurence Gantt）于1910年开发出的一种条形图，用水平条形图显示任务的时间表和进度。每个条形代表一个任务，长度表示持续时间。通过可视化展示任务的开始、结束时间以及相互关系，团队可以迅速规划和沟通项目进展。甘特图被广泛应用于项目管理中，成为了一种直观、强大的项目管理工具。
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption><p>雁阵甘特图</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ### 雁阵的优点
 

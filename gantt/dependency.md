@@ -13,17 +13,11 @@ description: 任务依赖指的是项目管理中不同任务之间的相互关�
 ### 添加方式一：鼠标拖拽
 
 {% embed url="https://oss.yanzhen.net/assets/help_docs/videos/add_dependency.mp4" %}
-添加任务依赖 - 鼠标拖拽
-{% endembed %}
 
 ### 添加方式二：搜索任务并添加
 
 {% embed url="https://oss.yanzhen.net/assets/help_docs/videos/add_dependency_2.mp4" %}
-添加任务依赖 - 从面板添加
-{% endembed %}
 
 ### 删除任务依赖
 
 {% embed url="https://oss.yanzhen.net/assets/help_docs/videos/remove_dependency.mp4" %}
-删除任务依赖
-{% endembed %}

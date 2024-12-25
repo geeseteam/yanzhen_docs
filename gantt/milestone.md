@@ -9,5 +9,3 @@ description: 在项目管理中，里程碑（Milestone）是一些关键事件�
 ### 设置为里程碑任务：
 
 {% embed url="https://oss.yanzhen.net/assets/help_docs/videos/milestone.mp4" %}
-设置为里程碑任务
-{% endembed %}

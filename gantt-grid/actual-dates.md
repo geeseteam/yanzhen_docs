@@ -4,17 +4,17 @@ description: 实际开始日期和实际结束日期在项目管理中是关键�
 
 # 📆 实际开始/结束日期
 
-## 启用实际日期 <a href="#enable-actual-dates" id="enable-actual-dates"></a>
+启用实际日期
 
 默认情况下，这个功能是关闭的。在甘特图界面，点&#x51FB;**“主菜单” / “项目设置”** 中开启：
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>启用实际日期设置</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 ## 在表格中显示实际开始/结束列
 
 在表格列设置中打开可见状态：
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>显示实际开始、实际结束列</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * **NA**：表示暂未输入。
@@ -23,5 +23,5 @@ description: 实际开始日期和实际结束日期在项目管理中是关键�
 * **里程碑：**&#x4E0D;需要输入实际开始日期，任务完成后输入实际结束日期即可。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>实际日期输入</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
